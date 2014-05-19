@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAA23CCE-DAE3-49EC-95CE-F1EF12F642FE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YRUISignal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16CC4D6C-8062-4D45-B6C6-D398D765CA9F</key>
+		<string>ssh://github.com/YueRuo/YRUISignal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YRUISignalDemo/YRUISignal.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16CC4D6C-8062-4D45-B6C6-D398D765CA9F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/YueRuo/YRUISignal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16CC4D6C-8062-4D45-B6C6-D398D765CA9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16CC4D6C-8062-4D45-B6C6-D398D765CA9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YRUISignal</string>
+		</dict>
+	</array>
+</dict>
+</plist>
