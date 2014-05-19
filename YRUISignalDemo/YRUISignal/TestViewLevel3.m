@@ -18,7 +18,7 @@
         // Initialization code
         testButton=[[UIButton alloc]initWithFrame:CGRectMake(0, 0, 90, 40)];
         [testButton setBackgroundColor:[UIColor brownColor]];
-        [testButton setTitle:@"click me" forState:UIControlStateNormal];
+        [testButton setTitle:@"点完看console" forState:UIControlStateNormal];
         [testButton addTarget:self action:@selector(buttonClicked) forControlEvents:UIControlEventTouchUpInside];
         
         [self addSubview:testButton];

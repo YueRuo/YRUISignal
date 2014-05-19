@@ -7,6 +7,7 @@
 //
 
 #import "TestViewLevel1.h"
+#import "YRUISignal.h"
 
 @implementation TestViewLevel1
 
@@ -33,4 +34,11 @@
 }
 */
 
+-(BOOL)handleYRUISignal:(YRUISignal *)signal{
+    if ([signal.name isEqualToString:TestViewLevel3ButtonSignalKey]) {
+        NSLog(@"TestViewLevel1 find the event ,but do nothing!");
+        return false;//继续传递
+    }
+    return false;
+}
 @end
