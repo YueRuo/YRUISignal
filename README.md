@@ -3,6 +3,12 @@ YRUISignal
 
 Help to get UI action signal
 
+支持pod  
+
+	pod 'YRUISignal'
+
+
+---
 
 开发中经常遇到类似的情况，viewController上贴了view1，view1上贴了view2，view2上贴了view3...  
 （如下图）
